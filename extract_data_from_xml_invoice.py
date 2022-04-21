@@ -1,3 +1,8 @@
+"""
+created by Oscar Enrique Estrada García
+oenriqueg@gmail.com
+"""
+
 import os
 import xml.etree.ElementTree as ET
 import pandas as pd
